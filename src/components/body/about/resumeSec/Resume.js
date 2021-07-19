@@ -42,7 +42,7 @@ function Resume() {
             <div className="resume__detail">
                 <div className="resume__detailLeft">
                     <PersonalInfo secType={"Summary"} name={"Eric Wang"}
-                        description={`1+ years of hands-on experience in developing and implementing web-based 
+                        description={`hands-on experience in developing and implementing web-based 
                         and Object-Oriented Programming applications using Core Java and React.`} />
 
 
